@@ -1,0 +1,39 @@
+{
+  "name": "cv-rifqi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@fontsource-variable/bricolage-grotesque": "^5.2.8",
+    "@fontsource/ibm-plex-sans": "^5.2.6",
+    "@fontsource/jetbrains-mono": "^5.2.6",
+    "@radix-ui/react-slot": "^1.2.3",
+    "@react-pdf/renderer": "^4.3.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "gsap": "^3.13.0",
+    "lucide-react": "^1.57.0",
+    "next": "^16.3.8",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^3.3.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "^16.3.8",
+    "postcss": "^8.5.30",
+    "tailwindcss": "^4",
+    "tw-animate-css": "^1.3.4",
+    "typescript": "^5"
+  }
+}

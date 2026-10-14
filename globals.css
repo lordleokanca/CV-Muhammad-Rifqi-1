@@ -1,0 +1,95 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/* shadcn theme tokens. Accent (--primary) = the crimson of the ID-photo backdrop. */
+:root {
+  --radius: 0.625rem;
+  --background: #f6f5f7;
+  --foreground: #1b1418;
+  --card: #ffffff;
+  --card-foreground: #1b1418;
+  --popover: #ffffff;
+  --popover-foreground: #1b1418;
+  --primary: #a3123a;
+  --primary-foreground: #ffffff;
+  --secondary: #f4dde3;
+  --secondary-foreground: #1b1418;
+  --muted: #eeeaed;
+  --muted-foreground: #5e5359;
+  --accent: #f4dde3;
+  --accent-foreground: #1b1418;
+  --destructive: #c0262d;
+  --border: #e2dce0;
+  --input: #e2dce0;
+  --ring: #a3123a;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #131013;
+    --foreground: #f1ebee;
+    --card: #1c171b;
+    --card-foreground: #f1ebee;
+    --popover: #1c171b;
+    --popover-foreground: #f1ebee;
+    --primary: #e8506f;
+    --primary-foreground: #1b0a10;
+    --secondary: #3a1822;
+    --secondary-foreground: #f1ebee;
+    --muted: #241e22;
+    --muted-foreground: #a99da4;
+    --accent: #3a1822;
+    --accent-foreground: #f1ebee;
+    --border: #332a30;
+    --input: #332a30;
+    --ring: #e8506f;
+    color-scheme: dark;
+  }
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+
+  --font-sans: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+  --font-display: "Bricolage Grotesque Variable", "Segoe UI", system-ui, sans-serif;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground font-sans;
+  }
+  h1, h2, h3, h4 {
+    text-wrap: balance;
+  }
+}
+
+.font-display {
+  font-family: var(--font-display);
+}

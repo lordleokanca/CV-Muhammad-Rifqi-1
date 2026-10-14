@@ -1,0 +1,318 @@
+{
+  "common": {
+    "name": "Muhammad Rifqi",
+    "email": "Muhammadrifqi1805@gmail.com",
+    "phone": "+62 812-5383-5082",
+    "location": "Balaraja, Tangerang, Banten 15610, Indonesia"
+  },
+  "en": {
+    "eyebrow": "Curriculum Vitae",
+    "role": "Web Developer · Data Analyst",
+    "status": "Informatics Engineering graduate · Graduation 27 October 2026",
+    "focus": [
+      "Web Development",
+      "Data Analysis",
+      "Database",
+      "IoT"
+    ],
+    "summary": "Informatics Engineering graduate from Universitas Islam Syekh Yusuf (final GPA 3.46/4.00, graduation 27 October 2026), looking for a Web Developer or Data Analyst role. During an internship in the Automation department of PT Charoen Pokphand Indonesia Balaraja, combined pellet machine and boiler data from the PLC, operator Excel logs and the plant database, and used HDBSCAN clustering to find optimal machine parameters. The recommended parameters were put on a one-week trial. Hard-working, punctual and eager to learn.",
+    "labels": {
+      "location": "Location",
+      "phone": "Phone",
+      "email": "Email",
+      "copy": "Copy",
+      "copied": "Copied",
+      "download": "Download CV (PDF)",
+      "downloadNote": "PDF in English",
+      "downloadFail": "Couldn't create the PDF. Try again.",
+      "timelineTitle": "The path so far",
+      "details": "Details",
+      "detailsSub": "Skills · Education · Experience",
+      "skills": "Technical skills",
+      "skillsNote": "Intermediate level · used in coursework projects",
+      "education": "Education",
+      "experience": "Professional experience",
+      "project": "Thesis project",
+      "courses": "Seminars & workshops",
+      "org": "Organisation & more",
+      "languages": "Languages",
+      "interests": "Interests",
+      "gpa": "GPA",
+      "summaryH": "Summary",
+      "certs": "Certificates available on request"
+    },
+    "skills": [
+      [
+        "Programming",
+        "Python · PHP · Java · C++ · Visual Basic"
+      ],
+      [
+        "Web",
+        "HTML · CSS · PHP"
+      ],
+      [
+        "Database",
+        "SQL Server"
+      ],
+      [
+        "Data",
+        "HDBSCAN clustering · data from PLC, Excel and database"
+      ],
+      [
+        "Tools",
+        "Microsoft Office"
+      ],
+      [
+        "Personal",
+        "Independent and team work · Delegation · Willingness to learn · Problem solving · Dependability"
+      ]
+    ],
+    "education": {
+      "school": "Universitas Islam Syekh Yusuf",
+      "when": "2021 — 2026",
+      "degree": "Bachelor of Engineering, Informatics Engineering",
+      "gpa": "3.46 / 4.00 (final)",
+      "grad": "Graduation: 27 October 2026"
+    },
+    "experience": {
+      "company": "PT Charoen Pokphand Indonesia — Balaraja",
+      "when": "22 Dec 2025 — 23 Feb 2026",
+      "role": "Intern · Automation Department",
+      "bullets": [
+        "Collected and combined pellet machine and boiler data from three sources: the PLC, operator Excel logs and the plant database.",
+        "Applied HDBSCAN (Hierarchical Density-Based Spatial Clustering of Applications with Noise) to group operating conditions and determine optimal machine parameters.",
+        "The recommended parameters were put on a one-week trial."
+      ]
+    },
+    "project": {
+      "title": "Clustering Analysis of Pellet Machine and Boiler Data using HDBSCAN",
+      "when": "2026",
+      "orig": "Analisis Klasterisasi Data Mesin Pelet dan Boiler Menggunakan Hierarchical Density-Based Spatial Clustering of Application with Noise (HDBSCAN) dalam Menentukan Parameter Optimal",
+      "note": "Undergraduate thesis, built on the internship data at PT Charoen Pokphand Indonesia."
+    },
+    "courses": [
+      [
+        "Pembelajaran IoT dari Nol",
+        "Edspert.id",
+        "17 May 2024"
+      ],
+      [
+        "Creating List-Based Applications with SwiftUI and UIKit",
+        "Dicoding",
+        "19 Dec 2023"
+      ],
+      [
+        "DevOps Engineer",
+        "Dicoding",
+        "14 Dec 2023"
+      ]
+    ],
+    "org": {
+      "name": "Perhimpunan Mahasiswa Teknik Informatika",
+      "role": "Member",
+      "when": "2021 — 2026"
+    },
+    "langs": "Bahasa Indonesia (fluent, verbal and written) · English (good reading and writing)",
+    "interests": "Music · Reading · Travelling",
+    "timeline": [
+      [
+        "t1",
+        "top",
+        "2021",
+        "Starts Informatics Engineering at Universitas Islam Syekh Yusuf"
+      ],
+      [
+        "b1",
+        "bottom",
+        "2021",
+        "Joins Perhimpunan Mahasiswa Teknik Informatika as a member"
+      ],
+      [
+        "t2",
+        "top",
+        "14 Dec 2023",
+        "Completes the DevOps Engineer course at Dicoding"
+      ],
+      [
+        "b2",
+        "bottom",
+        "19 Dec 2023",
+        "Builds list-based iOS apps with SwiftUI and UIKit, Dicoding"
+      ],
+      [
+        "t3",
+        "top",
+        "17 May 2024",
+        "Pembelajaran IoT dari Nol workshop at Edspert.id"
+      ],
+      [
+        "b3",
+        "bottom",
+        "Dec 2025",
+        "Automation intern at Charoen Pokphand; HDBSCAN parameters go to a one-week trial"
+      ],
+      [
+        "t4",
+        "top",
+        "27 Oct 2026",
+        "Graduates in Informatics Engineering with a final GPA of 3.46"
+      ]
+    ],
+    "pdfName": "CV_Muhammad_Rifqi_EN.pdf"
+  },
+  "id": {
+    "eyebrow": "Daftar Riwayat Hidup",
+    "role": "Web Developer · Data Analyst",
+    "status": "Lulusan Teknik Informatika · Wisuda 27 Oktober 2026",
+    "focus": [
+      "Pengembangan Web",
+      "Analisis Data",
+      "Basis Data",
+      "IoT"
+    ],
+    "summary": "Lulusan Teknik Informatika Universitas Islam Syekh Yusuf (IPK akhir 3,46/4,00, wisuda 27 Oktober 2026) yang mencari posisi Web Developer atau Data Analyst. Saat magang di departemen Automation PT Charoen Pokphand Indonesia Balaraja, menggabungkan data mesin pelet dan boiler dari PLC, logsheet Excel operator, dan database pabrik, lalu memakai klasterisasi HDBSCAN untuk menentukan parameter mesin yang optimal. Parameter yang direkomendasikan diuji coba selama satu minggu. Pekerja keras, tepat waktu, dan senang belajar.",
+    "labels": {
+      "location": "Lokasi",
+      "phone": "Telepon",
+      "email": "Email",
+      "copy": "Salin",
+      "copied": "Tersalin",
+      "download": "Unduh CV (PDF)",
+      "downloadNote": "PDF dalam Bahasa Indonesia",
+      "downloadFail": "Gagal membuat PDF. Coba lagi.",
+      "timelineTitle": "Perjalanan sejauh ini",
+      "details": "Rincian",
+      "detailsSub": "Keahlian · Pendidikan · Pengalaman",
+      "skills": "Keahlian teknis",
+      "skillsNote": "Level menengah · dipakai dalam proyek tugas kuliah",
+      "education": "Pendidikan",
+      "experience": "Pengalaman kerja",
+      "project": "Proyek skripsi",
+      "courses": "Seminar & pelatihan",
+      "org": "Organisasi & lainnya",
+      "languages": "Bahasa",
+      "interests": "Minat",
+      "gpa": "IPK",
+      "summaryH": "Ringkasan",
+      "certs": "Sertifikat tersedia bila diminta"
+    },
+    "skills": [
+      [
+        "Pemrograman",
+        "Python · PHP · Java · C++ · Visual Basic"
+      ],
+      [
+        "Web",
+        "HTML · CSS · PHP"
+      ],
+      [
+        "Basis data",
+        "SQL Server"
+      ],
+      [
+        "Data",
+        "Klasterisasi HDBSCAN · data dari PLC, Excel, dan database"
+      ],
+      [
+        "Perangkat",
+        "Microsoft Office"
+      ],
+      [
+        "Personal",
+        "Mandiri dan kerja tim · Delegasi · Mau belajar · Pemecahan masalah · Dapat diandalkan"
+      ]
+    ],
+    "education": {
+      "school": "Universitas Islam Syekh Yusuf",
+      "when": "2021 — 2026",
+      "degree": "Sarjana Teknik, Teknik Informatika",
+      "gpa": "3,46 / 4,00 (akhir)",
+      "grad": "Wisuda: 27 Oktober 2026"
+    },
+    "experience": {
+      "company": "PT Charoen Pokphand Indonesia — Balaraja",
+      "when": "22 Des 2025 — 23 Feb 2026",
+      "role": "Magang · Departemen Automation",
+      "bullets": [
+        "Mengumpulkan dan menggabungkan data mesin pelet dan boiler dari tiga sumber: PLC, logsheet Excel operator, dan database pabrik.",
+        "Menerapkan HDBSCAN (Hierarchical Density-Based Spatial Clustering of Applications with Noise) untuk mengelompokkan kondisi operasi dan menentukan parameter mesin yang optimal.",
+        "Parameter yang direkomendasikan diuji coba selama satu minggu."
+      ]
+    },
+    "project": {
+      "title": "Analisis Klasterisasi Data Mesin Pelet dan Boiler Menggunakan HDBSCAN dalam Menentukan Parameter Optimal",
+      "when": "2026",
+      "orig": "",
+      "note": "Skripsi S1, berdasarkan data magang di PT Charoen Pokphand Indonesia."
+    },
+    "courses": [
+      [
+        "Pembelajaran IoT dari Nol",
+        "Edspert.id",
+        "17 Mei 2024"
+      ],
+      [
+        "Creating List-Based Applications with SwiftUI and UIKit",
+        "Dicoding",
+        "19 Des 2023"
+      ],
+      [
+        "DevOps Engineer",
+        "Dicoding",
+        "14 Des 2023"
+      ]
+    ],
+    "org": {
+      "name": "Perhimpunan Mahasiswa Teknik Informatika",
+      "role": "Anggota",
+      "when": "2021 — 2026"
+    },
+    "langs": "Bahasa Indonesia (fasih, lisan dan tulisan) · Bahasa Inggris (baik dalam membaca dan menulis)",
+    "interests": "Musik · Membaca · Traveling",
+    "timeline": [
+      [
+        "t1",
+        "top",
+        "2021",
+        "Mulai kuliah Teknik Informatika di Universitas Islam Syekh Yusuf"
+      ],
+      [
+        "b1",
+        "bottom",
+        "2021",
+        "Bergabung sebagai anggota Perhimpunan Mahasiswa Teknik Informatika"
+      ],
+      [
+        "t2",
+        "top",
+        "14 Des 2023",
+        "Menyelesaikan kelas DevOps Engineer di Dicoding"
+      ],
+      [
+        "b2",
+        "bottom",
+        "19 Des 2023",
+        "Membuat aplikasi iOS berbasis list dengan SwiftUI dan UIKit, Dicoding"
+      ],
+      [
+        "t3",
+        "top",
+        "17 Mei 2024",
+        "Workshop Pembelajaran IoT dari Nol di Edspert.id"
+      ],
+      [
+        "b3",
+        "bottom",
+        "Des 2025",
+        "Magang Automation di Charoen Pokphand; parameter HDBSCAN diuji coba satu minggu"
+      ],
+      [
+        "t4",
+        "top",
+        "27 Okt 2026",
+        "Lulus Teknik Informatika dengan IPK akhir 3,46"
+      ]
+    ],
+    "pdfName": "CV_Muhammad_Rifqi_ID.pdf"
+  }
+}
